@@ -275,3 +275,5 @@ PolySafe/
 | `ARK_API_KEY` | 豆包 Ark API 密钥 | （必填） |
 | `ARK_MODEL_ID` | 豆包模型端点 ID | `your_model_id_here` |
 | `ARK_BASE_URL` | Ark API 基础地址 | `https://ark.cn-beijing.volces.com/api/v3`（示例值，请以官方文档为准） |
+
+`test`
